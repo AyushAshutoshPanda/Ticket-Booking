@@ -30,11 +30,17 @@ A standalone Java console application for booking train tickets. Users can creat
 Java-Ticket-Booking/
 │
 ├── src/ # Source code files
+
 │ ├── TicketBookingSystem.java
+
 │ ├── User.java
+
 │ ├── Train.java
+
 │ └── Booking.java
+
 ├── README.md
+
 └── .gitignore
 
 
