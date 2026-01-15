@@ -42,11 +42,17 @@ Java-Ticket-Booking/
 
 ## 🔹 Menu Example
 1.Sign Up
+
 2.Login
+
 3.Fetch Bookings
+
 4.Search Trains
+
 5.Book a Seat
+
 6.Cancel Booking
+
 7.Exit
 
 
